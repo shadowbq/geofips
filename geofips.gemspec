@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "geofips/version"
 
 Gem::Specification.new do |s|
-  s.name        = "geofips"
+  s.name        = "shadowbq-geofips"
   s.version     = Geofips::VERSION
   s.authors     = ["Cameron Cundiff"]
   s.email       = ["ckundo@gmail.com"]
